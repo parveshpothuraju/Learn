@@ -1,0 +1,7 @@
+im Parvesh Pothuraju
+trying to learn git
+
+learned to config
+push
+
+form work-stag-local-remote
